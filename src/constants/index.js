@@ -24,7 +24,7 @@ export const PROJECTS = [
     image: project1,
     description:
       "A personal portfolio website showcasing projects, skills, and contact information.",
-    technologies: ["HTML", "CSS", "React", "Tailwind ","Framer Motion","Versel"],
+    technologies: ["HTML", "CSS", "React", "Tailwind ","Framer Motion"],
   },
   {
     title: " Note Taker Web Application",
